@@ -1,1 +1,1 @@
-TEST=ok
+vless://af404b20-d9a5-4568-804e-25c8d106f292@blog.goodplaynew.ir:2090?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE%F0%9F%87%A9%F0%9F%87%AA--mmdmrm
