@@ -1,2 +1,1 @@
-vless://af404b20-d9a5-4568-804e-25c8d106f292@blog.goodplaynew.ir:2090?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE%F0%9F%87%A9%F0%9F%87%AA--mmdmrm
-vless://af404b20-d9a5-4568-804e-25c8d106f292@blog.goodplaynew.ir:2090?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
+vless://62597ed1-86c4-48a7-b159-ef1426cd6f34@blog.goodplaynew.ir:2090?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%E2%9A%A1
