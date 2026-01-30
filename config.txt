@@ -1,1 +1,4 @@
 vless://62597ed1-86c4-48a7-b159-ef1426cd6f34@blog.goodplaynew.ir:2090?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%E2%9A%A1
+vless://62597ed1-86c4-48a7-b159-ef1426cd6f34@blog.goodplaynew.ir:2090?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Franciszw%20%F0%9F%87%A9%F0%9F%87%AA
+vless://62597ed1-86c4-48a7-b159-ef1426cd6f34@blog.goodplaynew.ir:2090?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Franciszw%20%F0%9F%87%B3%F0%9F%87%B1
+vless://62597ed1-86c4-48a7-b159-ef1426cd6f34@blog.goodplaynew.ir:2090?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Franciszw%20%E2%9A%A1
