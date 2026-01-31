@@ -10,3 +10,4 @@ Salam
 Test
 Tt
 Salam
+سلام
