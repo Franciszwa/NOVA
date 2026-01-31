@@ -1,4 +1,4 @@
-[admin][green][bold][center]🚀 NovaRay فعالیت خود را آغاز کرد
+[admin][green][bold]🚀 NovaRay فعالیت خود را آغاز کرد
 [blue]🔔 آخرین کانفیگ‌ها به‌صورت روزانه بروزرسانی می‌شوند
 [yellow]⚠️ برای کپی کانفیگ دوبار کلیک کنید
 [gray]💬 پشتیبانی: @Franciszw
